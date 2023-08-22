@@ -70,7 +70,6 @@ This is a simple Express server that implements a blockchain with transaction hi
         "fromAddress": "senderAddress",
         "toAddress": "recipientAddress",
         "amount": 10,
-        "timestamp": 1679433600000,
         "id": "transactionId"
          },
         // More transactions...
